@@ -135,6 +135,12 @@ The final detection successfully identified the simulated reconnaissance activit
 - Security alert configuration
 - Detection and alert validation
 
+## Final Project Report
+
+A detailed project report documenting the attack simulation, Splunk investigation, detection development, testing, and alert validation is available below.
+
+[View Final Project Report](Network_Reconnaissance_Port_Scan_Detection_Project_Report.pdf)
+
 
 
 
